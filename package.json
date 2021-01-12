@@ -1,0 +1,26 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "billboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dridy87/Web-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dridy87/Web-crawler/issues"
+  },
+  "homepage": "https://github.com/dridy87/Web-crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.3",
+    "puppeteer": "^5.5.0",
+    "request": "^2.88.2"
+  }
+}
